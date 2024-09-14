@@ -27,7 +27,7 @@
 
 3. Open `pyhon console` & run
    ```
-   bpy.ops.my.bevel
+   bpy.ops.my.bevel()
    ```
    > `ops` - because its operator
    > `my.bevel` - is the id name
